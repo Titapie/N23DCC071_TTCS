@@ -105,8 +105,3 @@ Thư mục gốc chứa hai phần chính:
 
 ---
 
-## 🧪 Các Script Hữu Ích Khác
-
-Trong thư mục **`task-management-backend/`**:
-* `npm run reset:passwords`: Reset mật khẩu cho tất cả người dùng hiện có.
-* `npm run mongodb`: Lệnh tiện ích để chạy service MongoDB local trên Windows (nếu cài đặt ở đường dẫn mặc định).
