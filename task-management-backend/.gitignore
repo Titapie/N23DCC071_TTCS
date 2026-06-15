@@ -13,3 +13,13 @@ npm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sw?
+
+# Archive files
+*.zip
+*.rar
+*.tar.gz

@@ -2,3 +2,17 @@ node_modules
 .env
 .env.*
 dist
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sw?
+
+# Archive files
+*.zip
+*.rar
+*.tar.gz
+
+# Temp/Output files
+knip_output.txt
+*.log
