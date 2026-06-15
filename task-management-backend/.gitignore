@@ -1,0 +1,15 @@
+# Environment variables (chứa mật khẩu, secret keys - KHÔNG bao giờ đẩy lên GitHub)
+.env
+.env.local
+.env.production
+
+# Dependencies (nặng, người khác tự cài bằng npm install)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
